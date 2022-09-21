@@ -1,0 +1,30 @@
+/*img{
+	background-color: blue;
+}*/
+/*h1{
+	color: orange;
+}*/
+.my-heading{
+	color: orange;
+}
+.para{
+	color: blue;
+}
+.para-3{
+	color: red;
+}
+#first-element{
+	color: purple;
+}
+#my-heading{
+	color: pink;
+}
+a{
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	border-radius: 10px;
+	background-color: black;
+	padding: 12px 24px;
+
+}
