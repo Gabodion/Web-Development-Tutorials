@@ -19,6 +19,18 @@
 #my-heading{
 	color: pink;
 }
+.img-1{
+	background-color: yellow;
+}
+.img-1:hover{
+	background-color: aqua;
+}
+.img-2{
+	background-color: blue;
+}
+.img-2:hover{
+	background-color: red;
+}
 a{
 	text-decoration: none;
 	display: inline-block;
@@ -27,4 +39,8 @@ a{
 	background-color: black;
 	padding: 12px 24px;
 
+}
+a:hover{
+	background-color: blue;
+	color: black;
 }
